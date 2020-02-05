@@ -9,5 +9,3 @@ Class add
 	}
 	
 }
-//addeddd
-	//something
