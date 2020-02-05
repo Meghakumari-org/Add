@@ -7,3 +7,9 @@ Class add
 }
 Class c {}
 Class B {}
+Class B 
+{
+	int mul;
+	mul=num1*num2;
+}
+
