@@ -6,5 +6,4 @@ class display
 		System.out.println("Hii!");
 	}
 }
-
-.
+...
