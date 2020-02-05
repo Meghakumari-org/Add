@@ -5,5 +5,5 @@ Class add
 		int num1=6;
 		int num2=6,sum;
 }
-
-Class C {}
+Class c {}
+Class B {}
